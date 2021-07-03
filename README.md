@@ -1,4 +1,4 @@
-# BlueBike Daily Ridership Prediction
+# BlueBike Daily Ridership Forecast
 > "By failing to prepare, you are preparing to fail" 
 > by Benjamin Franklin
 
