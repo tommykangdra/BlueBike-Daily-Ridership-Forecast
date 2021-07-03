@@ -1,8 +1,14 @@
-# Description
-This notebook is analyzing the trip data of Blue Bikes (originally Hubway) in Boston. Blue Bikes (https://www.bluebikes.com/) is a public bike share system that operates in the Greater Boston area. We are interested in exploring the bike share operations from the data available on https://www.bluebikes.com/system-data. We will utilize the “Bluebikes trip history data” as well as “the list of GPS coordinates and number of docks for each station” available on the website.
+> "By failing to prepare, you are preparing to fail" 
+> By Benjamin Franklin
 
-Tools used on this notebook:
-## Time Series
+In every business, planning holds an important key to their success. We can gauge the maturity of the management in the company based on how they plan for the business and if the company achieved according to the plan. For every important planning, it's necessary to have a good forecast to allocate resources, and to anticipate problems that may arise. 
+
+**Objectives** In this project, we are exploring forecasting through different  algorithms: traditional algorithms (such as Moving Average, Simple Exponential Smoothing, Holt's Method, Winter Holt's Method) & Machine Learning (Seasonal Arima, univariate and multivariate). 
+
+**Data** We took real-data from Blue Bikes company in Boston https://www.bluebikes.com/system-data and our objective is to predict the daily forecast with window of 1 month and assess the performance of each algorithm.
+
+### Tools used on this notebook:
+#### Time Series
 - Moving Average
 - Simple Exponential Smoothing
 - Holt's Method
