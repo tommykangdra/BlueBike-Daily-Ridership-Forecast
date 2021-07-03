@@ -14,7 +14,7 @@ The best performant model is Seasonal ARIMA with AR order of 0, MA order of 1 an
 
 In the daily ridership (section 4), multivariate Seasonal ARIMA is performing better than normal Seasonal ARIMA improving 5.4% in terms of MAPE (from 56.3% to 50.9%). 
 
-![Arima Univariate and multivariate.jpg](/f3_arima univariate and multivariate.jpg)
+![Arima Univariate and multivariate.jpg](/f3_arima_univariate_multivariate.jpg)
 
 ### Conclusion
 
