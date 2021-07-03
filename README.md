@@ -14,6 +14,8 @@ The best performant model is Seasonal ARIMA with AR order of 0, MA order of 1 an
 
 In the daily ridership (section 4), multivariate Seasonal ARIMA is performing better than normal Seasonal ARIMA improving 5.4% in terms of MAPE (from 56.3% to 50.9%). 
 
+![Arima Univariate and multivariate.jpg](/f3_arima univariate and multivariate.jpg)
+
 ### Conclusion
 
 Univariate model of ARIMA able to perform well only by looking at the historical data, and able to decompose the historical data into Trend, Seasonal and Cyclical. With more data added, it can improve the performance of Model. This forecasting method will definitely help for the Blue-bike company to make better decision in their planning stage.
