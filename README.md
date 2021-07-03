@@ -1,5 +1,5 @@
 > "By failing to prepare, you are preparing to fail" 
-> By Benjamin Franklin
+> by Benjamin Franklin
 
 In every business, planning holds an important key to their success. We can gauge the maturity of the management in the company based on how they plan for the business and if the company achieved according to the plan. For every important planning, it's necessary to have a good forecast to allocate resources, and to anticipate problems that may arise. 
 
