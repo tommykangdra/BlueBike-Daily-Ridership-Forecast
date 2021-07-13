@@ -29,4 +29,4 @@ Univariate model of ARIMA able to perform well only by looking at the historical
 - SARIMA
 - SARIMA With Exogenous Variable
 
-This is part of NUS Master in Business Analytics Project in DBA5106 Foundation in Business Analytics.
+This is part of NUS Master in Business Analytics Project in DBA5106 Foundation in Business Analytics 2020.
